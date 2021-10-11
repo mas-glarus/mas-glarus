@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mas-glarus
-- 👀 I’m interested in: web development
+- 👀 I’m interested in: web-development
 - 🌱 I’m currently learning: html, css, js, php
 
 
