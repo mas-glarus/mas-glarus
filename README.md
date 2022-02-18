@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mas-glarus
+- 👋 Hi, I’m @marc
 - 👀 I’m interested in: web-development
 - 🌱 I’m currently learning: html, css, js, php
 
