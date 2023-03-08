@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marc
 - 👀 I’m interested in: web-development
-- 🌱 I’m currently learning: html, css, js, php
+- 🌱 I’m currently learning: html, css, js, react, sql, php
 
 
 <!---
